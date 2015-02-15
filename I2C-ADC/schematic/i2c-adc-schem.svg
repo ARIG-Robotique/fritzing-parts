@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="54px" height="54px" viewBox="0 0 54 54" xml:space="preserve">
+<g id="Reperes" display="none">
+</g>
+<g id="breadboard" display="none">
+	<g id="Fond" display="inline">
+		<rect x="1.8" y="1.8" fill="#007300" width="50.4" height="50.35"/>
+		<text transform="matrix(1 0 0 1 25.6504 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">w</text>
+		<text transform="matrix(1 0 0 1 27.8945 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">w</text>
+		<text transform="matrix(1 0 0 1 30.1387 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">w</text>
+		<text transform="matrix(1 0 0 1 32.2295 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">.</text>
+		<text transform="matrix(1 0 0 1 32.8506 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">g</text>
+		<text transform="matrix(1 0 0 1 34.5088 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">r</text>
+		<text transform="matrix(1 0 0 1 35.4756 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">a</text>
+		<text transform="matrix(1 0 0 1 36.8975 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">v</text>
+		<text transform="matrix(1 0 0 1 38.3398 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">i</text>
+		<text transform="matrix(1 0 0 1 39.042 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">t</text>
+		<text transform="matrix(1 0 0 1 40.0176 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">e</text>
+		<text transform="matrix(1 0 0 1 41.5205 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">c</text>
+		<text transform="matrix(1 0 0 1 42.8643 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">h</text>
+		<text transform="matrix(1 0 0 1 44.5293 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">.</text>
+		<text transform="matrix(1 0 0 1 45.1504 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">u</text>
+		<text transform="matrix(1 0 0 1 46.8027 50.7744)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="3">s</text>
+		<text transform="matrix(1 0 0 1 18.7754 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">I</text>
+		<text transform="matrix(1 0 0 1 19.9702 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">2</text>
+		<text transform="matrix(1 0 0 1 22.5352 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">C</text>
+		<text transform="matrix(1 0 0 1 25.4355 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">-</text>
+		<text transform="matrix(1 0 0 1 26.9502 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">A</text>
+		<text transform="matrix(1 0 0 1 30.0098 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">D</text>
+		<text transform="matrix(1 0 0 1 33.3398 7.1494)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="5">C</text>
+	</g>
+	<g id="composants" display="inline">
+		<g id="resistance">
+			<g>
+				<rect x="21.775" y="38.649" fill="#A9A8CC" width="4.5" height="9.75"/>
+				<rect x="21.9" y="40.274" width="4.25" height="6.75"/>
+			</g>
+			<g>
+				<rect x="28.9" y="38.649" fill="#A9A8CC" width="4.5" height="9.75"/>
+				<rect x="29.025" y="40.274" width="4.25" height="6.75"/>
+			</g>
+			<g>
+				<rect x="36.15" y="38.774" fill="#A9A8CC" width="4.5" height="9.75"/>
+				<rect x="36.275" y="40.399" width="4.25" height="6.75"/>
+			</g>
+		</g>
+		<g id="condensateur">
+			<g>
+				<rect x="14.775" y="42.149" fill="#A9A8CC" width="3.75" height="6.25"/>
+				<rect x="14.9" y="43.524" fill="#9B3A0D" width="3.5" height="3.625"/>
+			</g>
+			<g>
+				<rect x="19.65" y="8.024" fill="#A9A8CC" width="6.25" height="3.75"/>
+				<rect x="20.9" y="8.149" fill="#9B3A0D" width="3.625" height="3.5"/>
+			</g>
+		</g>
+		<g id="led">
+			<g>
+				<rect x="33.775" y="8.024" fill="#A9A8CC" width="6.25" height="3.75"/>
+				<rect x="35.025" y="8.149" fill="#FFFFA3" width="3.625" height="3.5"/>
+			</g>
+		</g>
+	</g>
+	<g id="ADS7828" display="inline">
+		<rect x="16.051" y="28.649" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="24.899" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="26.774" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="15.524" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="17.649" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="19.274" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="21.399" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect x="16.051" y="23.149" fill="#8F8556" width="22.125" height="0.875"/>
+		<rect id="chip" x="19.525" y="15.024" width="14.875" height="15"/>
+	</g>
+	<rect id="connector0terminal_1_" x="4.32" y="4.32" display="inline" fill="#8C8C8C" width="2.16" height="2.159"/>
+	<rect id="connector1terminal_1_" x="4.32" y="11.52" display="inline" fill="#8C8C8C" width="2.16" height="2.159"/>
+	<rect id="connector2terminal" x="4.32" y="18.72" display="inline" fill="#8C8C8C" width="2.16" height="2.159"/>
+	<rect id="connector3terminal" x="4.32" y="25.921" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector4terminal" x="4.32" y="33.12" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector5terminal" x="4.32" y="40.32" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector6terminal" x="4.32" y="47.521" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector7terminal" x="47.521" y="47.521" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector8terminal" x="47.521" y="40.32" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector9terminal" x="47.521" y="33.12" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector10terminal" x="47.521" y="25.921" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector11terminal" x="47.521" y="18.721" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector12terminal" x="47.521" y="11.521" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+	<rect id="connector13terminal" x="47.521" y="4.32" display="inline" fill="#8C8C8C" width="2.16" height="2.158"/>
+</g>
+<g id="schematic">
+	<rect id="contour" x="5.4" y="1.8" fill="none" stroke="#000000" width="43.2" height="50.399"/>
+	<g id="Text">
+		<text transform="matrix(1 0 0 1 20.4004 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">I</text>
+		<text transform="matrix(1 0 0 1 21.3564 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">2</text>
+		<text transform="matrix(1 0 0 1 23.4082 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">C</text>
+		<text transform="matrix(1 0 0 1 25.7285 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">-</text>
+		<text transform="matrix(1 0 0 1 26.9404 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">A</text>
+		<text transform="matrix(1 0 0 1 29.3887 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">D</text>
+		<text transform="matrix(1 0 0 1 32.0518 28.2744)" font-family="'MyriadPro-Regular'" font-size="4">C</text>
+		<text transform="matrix(1 0 0 1 8.9004 6.6494)" font-family="'MyriadPro-Regular'" font-size="3">1 CH0</text>
+		<text transform="matrix(1 0 0 1 9.0254 13.5996)" font-family="'MyriadPro-Regular'" font-size="3">2 CH1</text>
+		<text transform="matrix(1 0 0 1 8.9004 20.7998)" font-family="'MyriadPro-Regular'" font-size="3">3 CH2</text>
+		<text transform="matrix(1 0 0 1 9.0249 27.875)" font-family="'MyriadPro-Regular'" font-size="3">4 CH3</text>
+		<text transform="matrix(1 0 0 1 9.0254 35.2744)" font-family="'MyriadPro-Regular'" font-size="3">5 CH4</text>
+		<text transform="matrix(1 0 0 1 8.8999 42.3994)" font-family="'MyriadPro-Regular'" font-size="3">6 CH5</text>
+		<text transform="matrix(1 0 0 1 9.0249 49.6494)" font-family="'MyriadPro-Regular'" font-size="3">7 GND</text>
+		<text transform="matrix(1 0 0 1 36.1504 6.5244)" font-family="'MyriadPro-Regular'" font-size="3">V</text>
+		<text transform="matrix(1 0 0 1 37.8242 6.5244)" font-family="'MyriadPro-Regular'" font-size="3">C</text>
+		<text transform="matrix(1 0 0 1 39.501 6.5244)" font-family="'MyriadPro-Regular'" font-size="3">C</text>
+		<text transform="matrix(1 0 0 1 41.2402 6.5244)" font-family="'MyriadPro-Regular'" font-size="3"> </text>
+		<text transform="matrix(1 0 0 1 41.877 6.5244)" font-family="'MyriadPro-Regular'" font-size="3">1</text>
+		<text transform="matrix(1 0 0 1 43.416 6.5244)" font-family="'MyriadPro-Regular'" font-size="3">4</text>
+		<text transform="matrix(1 0 0 1 36.9004 13.5996)" font-family="'MyriadPro-Regular'" font-size="3">REF 13</text>
+		<text transform="matrix(1 0 0 1 36.1484 20.75)" font-family="'MyriadPro-Regular'" font-size="3">S</text>
+		<text transform="matrix(1 0 0 1 37.6279 20.75)" font-family="'MyriadPro-Regular'" font-size="3">D</text>
+		<text transform="matrix(1 0 0 1 39.584 20.75)" font-family="'MyriadPro-Regular'" font-size="3">A</text>
+		<text transform="matrix(1 0 0 1 41.4199 20.75)" font-family="'MyriadPro-Regular'" font-size="3"> </text>
+		<text transform="matrix(1 0 0 1 42.0557 20.75)" font-family="'MyriadPro-Regular'" font-size="3">1</text>
+		<text transform="matrix(1 0 0 1 43.5947 20.75)" font-family="'MyriadPro-Regular'" font-size="3">2</text>
+		<text transform="matrix(1 0 0 1 37.0234 27.9756)" font-family="'MyriadPro-Regular'" font-size="3">SCL 11</text>
+		<text transform="matrix(1 0 0 1 37.6484 35.1748)" font-family="'MyriadPro-Regular'" font-size="3">NC 10</text>
+		<text transform="matrix(1 0 0 1 36.8984 42.5498)" font-family="'MyriadPro-Regular'" font-size="3">CH 7 9</text>
+		<text id="_x38__CH6" transform="matrix(1 0 0 1 37.7734 49.625)" font-family="'MyriadPro-Regular'" font-size="3">CH6 8</text>
+		<text transform="matrix(1 0 0 1 19.9004 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">w</text>
+		<text transform="matrix(1 0 0 1 21.3965 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">w</text>
+		<text transform="matrix(1 0 0 1 22.8926 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">w</text>
+		<text transform="matrix(1 0 0 1 24.2861 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">.</text>
+		<text transform="matrix(1 0 0 1 24.7002 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">g</text>
+		<text transform="matrix(1 0 0 1 25.8066 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">r</text>
+		<text transform="matrix(1 0 0 1 26.4502 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">a</text>
+		<text transform="matrix(1 0 0 1 27.3984 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">v</text>
+		<text transform="matrix(1 0 0 1 28.3604 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">i</text>
+		<text transform="matrix(1 0 0 1 28.8281 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">t</text>
+		<text transform="matrix(1 0 0 1 29.4785 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">e</text>
+		<text transform="matrix(1 0 0 1 30.4805 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">c</text>
+		<text transform="matrix(1 0 0 1 31.376 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">h</text>
+		<text transform="matrix(1 0 0 1 32.4863 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">.</text>
+		<text transform="matrix(1 0 0 1 32.9004 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">u</text>
+		<text transform="matrix(1 0 0 1 34.002 31.3994)" font-family="'MyriadPro-Regular'" font-size="2">s</text>
+	</g>
+	<g id="conncectors">
+		<line id="connector1pin" fill="none" stroke="#000000" x1="5.4" y1="5.399" x2="1.8" y2="5.399"/>
+		<line id="connector2pin" fill="none" stroke="#000000" x1="5.4" y1="12.6" x2="1.8" y2="12.6"/>
+		<line id="connector3pin" fill="none" stroke="#000000" x1="5.4" y1="19.8" x2="1.8" y2="19.8"/>
+		<line id="connector4pin" fill="none" stroke="#000000" x1="5.4" y1="27" x2="1.8" y2="27"/>
+		<line id="connector5pin" fill="none" stroke="#000000" x1="5.4" y1="34.199" x2="1.8" y2="34.199"/>
+		<line id="connector6pin" fill="none" stroke="#000000" x1="5.4" y1="41.399" x2="1.8" y2="41.399"/>
+		<line id="connector7pin" fill="none" stroke="#000000" x1="5.4" y1="48.6" x2="1.8" y2="48.6"/>
+		<line id="connector8pin" fill="none" stroke="#000000" x1="52.2" y1="48.6" x2="48.601" y2="48.6"/>
+		<line id="connector9pin" fill="none" stroke="#000000" x1="52.2" y1="41.399" x2="48.601" y2="41.399"/>
+		<line id="connector10pin" fill="none" stroke="#000000" x1="52.2" y1="34.199" x2="48.601" y2="34.199"/>
+		<line id="connector11pin" fill="none" stroke="#000000" x1="52.2" y1="27" x2="48.601" y2="27"/>
+		<line id="connector12pin" fill="none" stroke="#000000" x1="52.2" y1="19.8" x2="48.601" y2="19.8"/>
+		<line id="connector12pin_1_" fill="none" stroke="#000000" x1="52.2" y1="12.6" x2="48.601" y2="12.6"/>
+		<line id="connector12pin_2_" fill="none" stroke="#000000" x1="52.2" y1="5.399" x2="48.601" y2="5.399"/>
+	</g>
+</g>
+</svg>
